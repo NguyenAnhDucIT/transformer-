@@ -16,16 +16,16 @@ Dự án này thực hiện **Câu 3 (4 điểm): Code và huấn luyện 01 ví
 └── 📄 README.md                     # File này
 ```
 
-## 🎯 Mục Tiêu Hoàn Thành
+## Mục Tiêu Hoàn Thành
 
-### ✅ 1. Code Implementation
+###  Code Implementation
 - **Transformer Architecture**: Implementation đầy đủ từ scratch
 - **Multi-Head Attention**: Scaled dot-product attention với multiple heads
 - **Positional Encoding**: Sinusoidal encoding cho sequence position
 - **Encoder-Decoder Stack**: Configurable số layers
 - **Training Pipeline**: Complete training loop với optimization
 
-### ✅ 2. Phân Tích Kiến Trúc
+### Phân Tích Kiến Trúc
 - **Component Breakdown**: Chi tiết từng thành phần
 - **Parameter Analysis**: Phân bố parameters và memory usage
 - **Attention Patterns**: Visualization attention weights
@@ -103,7 +103,7 @@ Output Projection → Softmax
 4. **Loss Analysis**: Comparison different loss functions
 5. **Gradient Analysis**: Training stability metrics
 
-## 🎓 Educational Value
+##  Educational Value
 
 ### Học Được Gì
 1. **Transformer Internals**: Deep understanding architecture
@@ -119,7 +119,7 @@ Output Projection → Softmax
 - Question Answering
 - Code Generation
 
-## 🔬 Research Insights
+## Research Insights
 
 ### Architecture Analysis
 - **Parallelization**: Transformer fully parallelizable vs RNN sequential
@@ -133,9 +133,8 @@ Output Projection → Softmax
 - **Generalization**: Better performance on unseen data
 - **Optimization**: More robust to hyperparameter choices
 
-## 🏆 Đánh Giá Tự Động
+## Đánh Giá Tự Động
 
-**Điểm tự đánh giá: 4/4 điểm**
 
 - ✅ **Code Quality**: Clean, documented, functional implementation
 - ✅ **Architecture Analysis**: Comprehensive và accurate  
@@ -147,4 +146,5 @@ Output Projection → Softmax
 
 **Tác giả**: AI Assistant  
 **Ngày**: 23 tháng 10, 2025  
+
 **Môn**: Deep Learning - Transformer Architecture
