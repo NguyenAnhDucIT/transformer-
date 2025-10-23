@@ -32,14 +32,14 @@ Dự án này thực hiện **Câu 3 (4 điểm): Code và huấn luyện 01 ví
 - **Computational Complexity**: Analysis O(n²d) vs O(nd²)
 - **Architecture Insights**: Ưu nhược điểm và trade-offs
 
-### ✅ 3. Phân Tích Hàm Mất Mát
+### 3. Phân Tích Hàm Mất Mát
 - **Label Smoothing Loss**: So sánh với Cross-Entropy
 - **Loss Behavior**: Training dynamics và convergence
 - **Gradient Analysis**: Stability và distribution
 - **Loss Landscape**: Sensitivity analysis
 - **Empirical Comparison**: Multiple loss functions
 
-## 🚀 Cách Chạy
+## Cách Chạy
 
 ### Option 1: Jupyter Notebook (Recommended)
 ```bash
@@ -148,3 +148,4 @@ Output Projection → Softmax
 **Ngày**: 23 tháng 10, 2025  
 
 **Môn**: Deep Learning - Transformer Architecture
+
